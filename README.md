@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Spooky.go**
 
-- 👨‍💻 All of my projects are available at [https://github.com/kruimeltj?tab=repositories](https://github.com/kruimeltj?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/kruimeltj?tab=repositories](https://github.com/qief?tab=repositories)
 
 - 📫 How to reach me **Qief#0001 / @Chief.sh**
 
