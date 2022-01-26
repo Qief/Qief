@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Qief</h1>
-<h3 align="center">A simple new dutch programmer.</h3>
+<h3 align="center">A simple learning dutch programmer.</h3>
 
 - 🌱 I’m currently learning [Golang , HTML , JS](http://getfucked.ml/)
 
