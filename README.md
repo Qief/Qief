@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/kruimeltj?tab=repositories](https://github.com/qief?tab=repositories)
 
-- 📫 How to reach me **Qief#0001 / @Chief.sh**
+- 📫 How to reach me **qief#8800 / ig : @kruimelqief**
 
 - ⚡ Fun fact **Im not black.**
 
