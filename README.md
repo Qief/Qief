@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning [Golang , HTML , JS](http://getfucked.ml/)
 
-- 👯 I’m looking to collaborate on **Spooky.go**
+- 👯 I’m looking to collaborate on **Gateway.php**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kruimeltj?tab=repositories](https://github.com/qief?tab=repositories)
 
